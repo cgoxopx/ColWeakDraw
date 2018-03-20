@@ -4,10 +4,10 @@
 一个简单的图片生成库，能生成只有“色觉异常”者才能看到的图片（并且还支持动态图片，快速变化会让别人根本没法看）。  
 可用于隐藏一些隐私内容。  
 截图：  
-！[image](https://github.com/cgoxopx/ColWeakDraw/blob/master/image/1.jpg)  
-！[image](https://github.com/cgoxopx/ColWeakDraw/blob/master/image/2.jpg)  
-！[image](https://github.com/cgoxopx/ColWeakDraw/blob/master/image/3.jpg)  
-！[image](https://github.com/cgoxopx/ColWeakDraw/blob/master/image/4.jpg)  
+![image](https://github.com/cgoxopx/ColWeakDraw/raw/master/image/1.jpg)  
+![image](https://github.com/cgoxopx/ColWeakDraw/raw/master/image/2.jpg)  
+![image](https://github.com/cgoxopx/ColWeakDraw/raw/master/image/3.jpg)  
+![image](https://github.com/cgoxopx/ColWeakDraw/raw/master/image/4.jpg)  
 用[动态版](./test/sdl.cpp)效果更佳  
 核心代码约100行，只用了math.h和stdlib.h，完美跨平台，甚至能在emscripten上编译，用于web开发  
 ## 使用方法  
